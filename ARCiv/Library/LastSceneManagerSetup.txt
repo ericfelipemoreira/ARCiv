@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/ARToolKit6-Unity/Test Scenes/2DTrackerTest.unity
+  isLoaded: 1
+  isActive: 1
